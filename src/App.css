@@ -1,0 +1,144 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 80px;
+}
+
+.App-header {
+  background-color: #222;
+  height: 150px;
+  padding: 20px;
+  color: white;
+}
+
+.App-title {
+  font-size: 1.5em;
+}
+
+.App-intro {
+  font-size: large;
+}
+
+@keyframes App-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
+
+#behave{
+  margin-left: 1000px;
+  color: #f62459;
+}
+
+#creave{
+  align-content: flex-end;
+  margin-left: 10px;
+  color: #f62459;
+}
+
+#bells{
+  color: #264348;
+}
+
+#NavItem{
+  color: #c93756;
+}
+
+#see{
+  margin-left: -200px;
+}
+
+hr{
+  border-width: 2px;
+}
+
+#gen{
+  height: 300px;
+  width: 350px;
+  margin-top: -20px;
+
+}
+
+.card1 {
+  /*
+  -webkit-animation: cardEnter 0.75s ease-in-out 0.5s;
+  animation: cardEnter 0.75s ease-in-out 0.5s;
+  -webkit-animation-fill-mode: both;
+          animation-fill-mode: both;
+  */
+  max-width: 400px;
+  padding: 30px;
+  background-color: #fff;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.4);
+  margin: 20px auto;
+  opacity: 1;
+  color: #000;
+  line-height: 49px;
+}
+
+
+#bless{
+  background-color: #ecf0f1;
+}
+
+#create{
+  background-color: #e74c3c;
+}
+
+input[type="checkbox"] {
+  margin-left: -80px;
+
+}
+button{
+  margin-left: -80px;
+  width: 150px;
+}
+
+#white{
+  border-width: 3px;
+  border-color: #ecf0f1;
+}
+
+p{
+  font-family:serif;
+  font-style: normal;
+  font-weight: bold;
+}
+
+button:hover{
+  margin-left: -70px;
+  color: #cf000f;
+  background-color: #f7ca18;
+  border-radius: 10px;
+}
+
+input[type="text"]:hover {
+  text-indent: inherit;
+  background-color: #f7ca18;
+
+}
+
+input[type="password"]:hover {
+  text-indent: inherit;
+  background-color: #f7ca18;
+
+}
+
+input[type="text"]{
+  width: 250px;
+
+}
+
+input[type="password"]{
+  width: 250px;
+}
+
+.card1:hover{
+  background-color: #89c4f4;
+}
+
+#crimp:hover{
+  background-color: #be90d4;
+}
